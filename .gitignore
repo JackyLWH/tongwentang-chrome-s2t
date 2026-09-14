@@ -1,0 +1,12 @@
+node_modules/
+dist/*
+!dist/chromium/
+dist/chromium/*
+!dist/chromium/dictionaries/
+dist/chromium/dictionaries/*
+!dist/chromium/dictionaries/s2t-char.min.json
+!dist/chromium/dictionaries/s2t-phrase.min.json
+*.tsbuildinfo
+*.log
+.DS_Store
+Thumbs.db

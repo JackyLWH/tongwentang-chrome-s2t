@@ -1,0 +1,113 @@
+{
+  "MSG_EXT_NAME": {
+    "message": "新同文堂"
+  },
+  "MSG_EXT_DESC": {
+    "message": "啟用後自動將簡體中文轉換為正體中文"
+  },
+  "MSG_GENERAL": {
+    "message": "偏好設定"
+  },
+  "MSG_IMPORT": {
+    "message": "匯入"
+  },
+  "MSG_EXPORT": {
+    "message": "匯出"
+  },
+  "MSG_RESET": {
+    "message": "重設"
+  },
+  "MSG_RESET_ALL": {
+    "message": "全部重設"
+  },
+  "MSG_RESET_TIP": {
+    "message": "保留自訂字典檔"
+  },
+  "MSG_RESET_ALL_TIP": {
+    "message": "同時刪除自訂字典檔"
+  },
+  "MSG_EXPORT_FAILED": {
+    "message": "匯出失敗"
+  },
+  "MSG_IMPORT_CANCELED": {
+    "message": "匯入取消"
+  },
+  "MSG_IMPORT_COMPLETED": {
+    "message": "匯入完成"
+  },
+  "MSG_IMPORT_FAILED": {
+    "message": "匯入失敗"
+  },
+  "MSG_PREF_RESET_COMPLETED": {
+    "message": "重設偏好完成"
+  },
+  "MSG_PREF_RESET_FAILED": {
+    "message": "重設偏好失敗"
+  },
+  "MSG_CONFIRM_FIX_IMPORT": {
+    "message": "匯入的偏好設定格式不正確，是否要自動修正後匯入？"
+  },
+  "MSG_CONFIRM_RESET": {
+    "message": "這個動作會重設所有的偏好設定除了自訂的字典檔，是否繼續？"
+  },
+  "MSG_CONFIRM_RESET_ALL": {
+    "message": "這個動作會重設所有的偏好設定包含自訂的字典檔，是否繼續？"
+  },
+  "MSG_ADD": {
+    "message": "加入"
+  },
+  "MSG_EDIT": {
+    "message": "編輯"
+  },
+  "MSG_DELETE": {
+    "message": "刪除"
+  },
+  "MSG_SAVE": {
+    "message": "儲存"
+  },
+  "MSG_DEFAULT_S2T_CHAR": {
+    "message": "預設簡轉正單字"
+  },
+  "MSG_DEFAULT_S2T_WORD": {
+    "message": "預設簡轉正詞彙"
+  },
+  "MSG_CUSTOM_S2T": {
+    "message": "自訂簡轉正"
+  },
+  "MSG_WORD": {
+    "message": "詞彙"
+  },
+  "MSG_UPDATE_COMPLETED": {
+    "message": "完成更新"
+  },
+  "MSG_UPDATE_FAILED": {
+    "message": "更新失敗"
+  },
+  "MSG_CONVERT_TARGET": {
+    "message": "轉換目標"
+  },
+  "MSG_CONVERT_VALUE": {
+    "message": "轉換值"
+  },
+  "MSG_ABOUT": {
+    "message": "關於"
+  },
+  "MSG_REPOSITORY": {
+    "message": "程式碼倉庫"
+  },
+  "MSG_CONTRIBUTORS": {
+    "message": "貢獻者"
+  },
+  "MSG_LICENSE": {
+    "message": "授權方式"
+  },
+  "MSG_ISSUE_REPORT": {
+    "message": "問題回報"
+  },
+  "MSG_OK": {
+    "message": "確認"
+  },
+  "MSG_JSON_ERROR": {
+    "message": "無法解析匯入的檔案，請確保檔案符合 JSON 格式"
+  }
+}

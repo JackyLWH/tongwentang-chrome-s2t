@@ -1,0 +1,37 @@
+{
+  "name": "tongwentang-extension",
+  "version": "3.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "t7yang",
+  "license": "MIT",
+  "scripts": {
+    "dev:chromium": "rspack build --mode=development",
+    "test:tsc": "tsc --noEmit",
+    "build:chromium": "rspack build --mode=production",
+    "format": "prettier . --write --ignore-unknown",
+    "lint": "eslint --fix"
+  },
+  "dependencies": {
+    "data-fixer": "^5.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "spectre.css": "^0.5.9",
+    "tongwen-core": "^5.0.0-beta-1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@rspack/cli": "^1.1.8",
+    "@rspack/core": "^1.1.8",
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.3",
+    "globals": "^15.14.0",
+    "prettier": "^3.4.2",
+    "typescript": "~5.7.2",
+    "typescript-eslint": "^8.18.2"
+  }
+}
