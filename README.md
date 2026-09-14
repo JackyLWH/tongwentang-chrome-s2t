@@ -10,7 +10,7 @@
 
 ## 安裝
 
-請從 GitHub Releases 下載 **`tongwentang-chrome-s2t-v3.0.1.zip`**，解壓後在 Chrome 開啟 `chrome://extensions`，啟用「開發人員模式」，按「載入未封裝項目」，選取解壓後含有 `manifest.json` 的資料夾。GitHub 自動產生的「Source code」壓縮檔只有原始碼，不能直接當成已建置的插件載入。
+請從 GitHub Releases 下載 **`tongwentang-chrome-s2t-v3.0.2.zip`**，解壓後在 Chrome 開啟 `chrome://extensions`，啟用「開發人員模式」，按「載入未封裝項目」，選取解壓後含有 `manifest.json` 的資料夾。GitHub 自動產生的「Source code」壓縮檔只有原始碼，不能直接當成已建置的插件載入。
 
 本插件要求 Chrome 116 或更新版本。安裝後可按工具列圖示切換 ON／OFF。偏好設定頁面仍可調整簡轉正字典與自訂詞彙。
 
